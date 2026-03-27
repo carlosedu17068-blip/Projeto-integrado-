@@ -1,3 +1,1 @@
 # Projeto-integrado-
-
-Carlos Eduardo 

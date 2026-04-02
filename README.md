@@ -12,5 +12,5 @@ RA 425387549561
 Letícia de Andrade
 
 
-Rafael minuqui Melo 
+Rafael minuqui Melo
 RA: 424065349561

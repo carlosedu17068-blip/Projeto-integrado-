@@ -1,6 +1,6 @@
 # Projeto-integrado-
 
-nome da empresa e apha code 
+nome da empresa e ALPHA CODE 
 
 Tema: Plano de Backup e Continuidade (BCP/DRP) para uma Empresa Fictícia
 
